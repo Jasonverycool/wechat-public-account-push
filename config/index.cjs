@@ -9,10 +9,10 @@ const USER_CONFIG = {
   USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxa88e7a315a96e5dc',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'd02c3ce283b509083a170427647f9c6e',
 
   PROVINCE: '广东',
   CITY: '广州',
